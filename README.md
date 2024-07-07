@@ -2,7 +2,7 @@
 Este repositorio contiene el ejercicio práctico del portafolio web, según instrucciones del curso de Alura
 
 ## Conceptos usados en el desarrollo de este portafolio parcial
-<hr>
+
 * html
 * css
 * responsividad
